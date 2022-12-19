@@ -2,7 +2,7 @@ name: skr_pro
 
 on:
   schedule:
-    # At 12:15 each day. No idea what time zone this is...
+    # At 12:15 each day. No idea what time zone this isz...
     - cron:  '15 12 * * *'
   push:
     branches:
